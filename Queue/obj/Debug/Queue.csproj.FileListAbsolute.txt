@@ -1,0 +1,6 @@
+C:\Users\PISYA\Desktop\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\PISYA\Desktop\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\PISYA\Desktop\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\PISYA\Desktop\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\PISYA\Desktop\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\PISYA\Desktop\Queue\Queue\obj\Debug\Queue.pdb
